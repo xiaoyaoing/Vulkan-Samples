@@ -94,7 +94,7 @@ void DescriptorPool::set_descriptor_set_layout(const DescriptorSetLayout &set_la
 
 VkDescriptorSet DescriptorPool::allocate()
 {
-	pool_index = find_available_pool(pool_index);
+ 	pool_index = find_available_pool(pool_index);
 
 	// Increment allocated set count for the current pool
 	++pool_sets_count[pool_index];

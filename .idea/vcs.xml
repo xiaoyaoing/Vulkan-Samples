@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/assets" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lajolla" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third_party/CTPL" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third_party/astc" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third_party/catch2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third_party/cli11" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third_party/glfw" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third_party/glm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third_party/glslang" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third_party/hwcpipe" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third_party/imgui" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third_party/ktx" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third_party/opencl" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third_party/spdlog" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third_party/spirv-cross" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third_party/stb" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third_party/tinygltf" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third_party/vma" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third_party/volk" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third_party/vulkan" vcs="Git" />
+  </component>
+</project>

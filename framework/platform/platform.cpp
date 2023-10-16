@@ -48,7 +48,7 @@ const uint32_t Platform::MIN_WINDOW_HEIGHT = 320;
 
 std::vector<std::string> Platform::arguments = {};
 
-std::string Platform::external_storage_directory = "";
+std::string Platform::external_storage_directory = "E:\\code\\Vulkan-Samples\\";
 
 std::string Platform::temp_directory = "";
 

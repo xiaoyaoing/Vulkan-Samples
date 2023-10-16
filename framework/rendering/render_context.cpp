@@ -382,6 +382,7 @@ void RenderContext::submit(const Queue &queue, const std::vector<CommandBuffer *
 	queue.submit({submit_info}, fence);
 }
 
+
 void RenderContext::wait_frame()
 {
 	RenderFrame &frame = get_active_frame();

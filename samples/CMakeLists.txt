@@ -105,6 +105,7 @@ set(ORDER_LIST
     "async_compute"
     "multi_draw_indirect"
     "texture_compression_comparison"
+    "vxgi"
 
     #Tooling samples
     "profiles"
